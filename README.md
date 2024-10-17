@@ -32,3 +32,5 @@ Although the batch file will still execute normally, its contents will be obscur
 
 > [!WARNING]
 > This encryption method is not secure! If someone uses a hex editor, they can easily remove the added byte sequence and reveal the original batch file contents. Use this program only for basic obfuscation, not for sensitive data protection.
+
+You can join my [Discord](https://discord.gg/N55YYbDZ7Z) for more tools and informations!
